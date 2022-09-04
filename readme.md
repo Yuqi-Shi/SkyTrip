@@ -17,14 +17,14 @@
   <a href="#reference">Reference</a>
 </p>
 
-## Website
+## ✈️ Website
 👉 : https://skytrip-app.herokuapp.com/
 
 <div align="center">
   <img src="https://github.com/Yuqi-Shi/SkyTrip/blob/main/readme_img/homepage.jpg" alt="login" width="800">
 </div>
 
-## Build With
+## ✈️ Build With
 
 * __Frontend__: HTML, CSS, JavaScript, Pug
 * __Backend__: NodeJS, Express, RESTful API
@@ -33,7 +33,7 @@
 * __Cloud Platform__: Heroku, Git, Atlas
 * __Other Tools__: Postman, [Stripe](https://stripe.com/), [Leaflet](https://leafletjs.com/reference.html),  [Mailtrap](https://mailtrap.io/) & [SendInBlue](https://www.sendinblue.com/)
 
-## How To Use
+## ✈️ How To Use
 
 ### Sign Up & Log In
 * Sign up
@@ -110,7 +110,7 @@ Change new photo in user account:
   <img src="https://github.com/Yuqi-Shi/SkyTrip/blob/main/readme_img/review.gif" alt="review" width="800">
 </div>
 
-## Installation
+## ✈️ Installation
 ### Environment variables
 Database:
 ```
@@ -153,7 +153,7 @@ $ npm run dev (for development)
 $ npm run start:prod (for production)
 ```
 
-## Future Updates
+## ✈️ Future Updates
 * __Complete all the remaining pages on user account page__
 * __Implement "like trip" functionality with fav trip page__
 * __Keep user logged in with refresh tokens__
@@ -161,6 +161,6 @@ $ npm run start:prod (for production)
 * __Two-factor authentication:__ users are granted access to SkyTrip Website only after successfully presenting the randomly generated and frequently changing codes send to their email addresses.
 * __Improve tour dates:__ add a participants and soldOut field to each date. When the user wants to book a specific trip, he/she needs to check if trip on the selected date is still available.
 
-## Reference
+## ✈️ Reference
 
 * Modified from the Natours project by Jonas' Udemy course: [Node.js, Express, MongoDB & More: The Complete Bootcamp 2022](https://www.udemy.com/course/nodejs-express-mongodb-bootcamp/)
