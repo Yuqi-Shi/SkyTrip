@@ -6,6 +6,7 @@
 </h1>
 
 <h4 align="center">Built using modern technologies: node.js, express, mongoDB, mongoose</h4>
+<h4 align="center">Together with: Jiacheng Wei</h4>
 
  <p align="center">
  <a href="#website">Website</a> •
